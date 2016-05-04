@@ -2,4 +2,4 @@
 
 @TechDragonSoft @Starset
 
-Welcome to Quaint OS a Linux distribution based on Fedora 22.
+Welcome to Quaint OS a Linux distribution based on Fedora 23.
